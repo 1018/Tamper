@@ -1,0 +1,13 @@
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\bin\Debug\TamperResistantProgram.exe
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\bin\Debug\TamperResistantProgram.pdb
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\bin\Debug\SystemCommon.dll
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\bin\Debug\SystemCommon.pdb
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\obj\x86\Debug\TamperResistantProgram.MainForm.resources
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\obj\x86\Debug\TamperResistantProgram.Properties.Resources.resources
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\obj\x86\Debug\TamperResistantProgram.exe
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\obj\x86\Debug\TamperResistantProgram.pdb
+C:\Users\neko\documents\visual studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\obj\x86\Debug\TamperResistantProgram.VersionInfoForm.resources
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\bin\Debug\TamperResistantProgram.exe.config
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\obj\x86\Debug\TamperResistantProgram.SettingForm.resources
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\obj\x86\Debug\TamperResistantProgram.csprojResolveAssemblyReference.cache
+C:\Users\neko\Documents\Visual Studio 2010\Projects\TamperResistantProgram\TamperResistantProgram\obj\x86\Debug\TamperResistantProgram.csproj.GenerateResource.Cache
