@@ -63,7 +63,7 @@ namespace TamperResistantProgram
         }
 
         /// <summary>
-        /// 設定ボタン押下処理
+        /// 適用ボタン押下処理
         /// </summary>
         private void btnSetting_Click(object sender, EventArgs e)
         {
@@ -77,6 +77,7 @@ namespace TamperResistantProgram
                 Properties.Settings.Default["StopMonitoring"] = txtNewKey.Text; ;
                 Properties.Settings.Default["KeyData"] = _keyData;
             }
+            Properties.Settings.Default.Save();
         }
 
         /// <summary>

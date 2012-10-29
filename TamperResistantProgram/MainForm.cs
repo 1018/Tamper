@@ -256,7 +256,8 @@ namespace TamperResistantProgram
         /// <param name="e"></param>
         void trForm_KeyUp(object sender, KeyEventArgs e)
         {
-            if((int)e.KeyData == Properties.Settings.Default.KeyData)
+            Properties.Settings.Default.Save(); 
+            if ((int)e.KeyData == Properties.Settings.Default.KeyData)
             {
                 Logger.WriteLog(STOP_MONITORING, _logDirPath);                                   
                 trForm.Close();
